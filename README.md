@@ -4,7 +4,7 @@ Moje rozwiazania zadań z ksiązki pt. "C++ Na Prostych Przykładach" z bibliote
 - Wszyskie programy były kompilowane na Windows MinGW64
 
 ## Rozdziały:
-Rozdzial 2;
+Rozdzial 2 - Podstawy języka C++;
   - Zadanie 1 - Napisz program, który oblicza logarytm naturalny podanej na wejściu danych liczb
   - Zadanie 2 - Napisz program, który oblicza pole koła o padanym na wejściu danych promieniu
   - Zadanie 3 - Napisz program, który sprawdzi, czy dla liczby podanej na wejściu większą wartość ma logarytm naturalny, czy logarytm dziesiętny
